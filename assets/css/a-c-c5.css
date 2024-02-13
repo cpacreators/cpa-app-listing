@@ -1,0 +1,46 @@
+::selection {
+	background: #b0f42a;
+	color: #fff;
+}
+::-moz-selection {
+	background: #b0f42a;
+	color: #fff;
+}
+header {
+	background: #b0f42a;
+}
+.section-title-wrapper h3:before {
+	background: #b0f42a;
+}
+.search-input-wrapper span.material-icons-two-tone {
+	color: #b0f42a;
+}
+.listing-item-by-val {
+	color: #b0f42a;
+}
+#app-step-by {
+    color: #b0f42a;
+}
+.step-loader .ball-scale-multiple>div {
+	background-color: #b0f42a;
+}
+#s-p-c-title {
+	color: #b0f42a;
+}
+.s-p-c-btn {
+	text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+	color: #fff;
+	background: #b0f42a;
+}
+#proccessing-outer-wrapper {
+	background: #b0f42a;
+}
+.proccessing-loadbar div {
+	background: #b0f42a;
+}
+.ball-scale-multiple>div {
+	background-color: #b0f42a;
+}
+.d-b-notice-wrapper span.material-icons-two-tone {
+	filter: invert(79%) sepia(94%) saturate(401%) hue-rotate(22deg) brightness(97%) contrast(98%);
+}

@@ -1,0 +1,46 @@
+::selection {
+	background: #8429ff;
+	color: #fff;
+}
+::-moz-selection {
+	background: #8429ff;
+	color: #fff;
+}
+header {
+	background: #8429ff;
+}
+.section-title-wrapper h3:before {
+	background: #8429ff;
+}
+.search-input-wrapper span.material-icons-two-tone {
+	color: #8429ff;
+}
+.listing-item-by-val {
+	color: #8429ff;
+}
+#app-step-by {
+    color: #8429ff;
+}
+.step-loader .ball-scale-multiple>div {
+	background-color: #8429ff;
+}
+#s-p-c-title {
+	color: #8429ff;
+}
+.s-p-c-btn {
+	text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+	color: #fff;
+	background: #8429ff;
+}
+#proccessing-outer-wrapper {
+	background: #8429ff;
+}
+.proccessing-loadbar div {
+	background: #8429ff;
+}
+.ball-scale-multiple>div {
+	background-color: #8429ff;
+}
+.d-b-notice-wrapper span.material-icons-two-tone {
+	filter: invert(20%) sepia(92%) saturate(5447%) hue-rotate(263deg) brightness(101%) contrast(101%);
+}

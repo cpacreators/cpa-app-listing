@@ -1,0 +1,3 @@
+<?php
+$lI = "Yourdomain.com";
+?>

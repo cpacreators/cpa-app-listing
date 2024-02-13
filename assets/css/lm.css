@@ -1,0 +1,82 @@
+.cm-l {
+	background: #fff;
+	color: #344b67;
+}
+.cm-l .preloader-wrapper {
+	background: #fff;
+	color: #adafb6;
+}
+.cm-l .featured-section {
+    background: #fafafa;
+}
+.cm-l .featured-app-slider-item {
+	background: #fff;
+	box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.15);
+}
+.cm-l .search-input {
+	background: #f4f4f4;
+	color: #000;
+}
+.cm-l .search-input::placeholder {
+	color: #cfd8e3;
+	opacity: 1;
+}
+.cm-l .search-input:-ms-input-placeholder {
+	color: #cfd8e3;
+}
+.cm-l .search-input::-ms-input-placeholder {
+	color: #cfd8e3;
+}
+.cm-l .listing-item {
+	background: #fff;
+	box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.15);
+}
+.cm-l .listing-item-os {
+    color: #becbda;
+}
+.cm-l .listing-item-by {
+	color: #bac5d2;
+}
+.cm-l .listing-item-rating-val {
+	color: #bac5d2;
+}
+.cm-l .listing-item-about {
+	color: #bac5d2;
+}
+.cm-l .app-step-platforms i {
+	color: #bac5d2;
+}
+.cm-l #app-step-rating-val {
+	color: #bac5d2;
+}
+.cm-l #app-step-downloads-val {
+	color: #bac5d2;
+}
+.cm-l #app-step-description {
+	color: #bac5d2;
+}
+.cm-l .proccessing-title {
+	color: #bac5d2;
+}
+.cm-l .step-exit .material-icons-two-tone {
+	filter: invert(84%) sepia(13%) saturate(239%) hue-rotate(172deg) brightness(93%) contrast(86%);
+}
+.cm-l .proccessing-loader span.material-icons-two-tone {
+    filter: invert(84%) sepia(13%) saturate(239%) hue-rotate(172deg) brightness(93%) contrast(86%);
+	font-size: 7em;
+}
+.cm-l .step-container {
+	box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.15);
+	background: #fff;
+}
+.cm-l .proccessing-wrapper {
+    box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.2);
+	background: #fff;
+}
+.cm-l .app-step-downloads .material-icons-two-tone {
+	filter: invert(84%) sepia(13%) saturate(239%) hue-rotate(172deg) brightness(93%) contrast(86%);
+}
+.cm-l footer {
+	background: #f5f5f5;
+	color: rgba(0,0,0,0.3);
+}

@@ -1,0 +1,46 @@
+::selection {
+	background: #ffa800;
+	color: #fff;
+}
+::-moz-selection {
+	background: #ffa800;
+	color: #fff;
+}
+header {
+	background: #ffa800;
+}
+.section-title-wrapper h3:before {
+	background: #ffa800;
+}
+.search-input-wrapper span.material-icons-two-tone {
+	color: #ffa800;
+}
+.listing-item-by-val {
+	color: #ffa800;
+}
+#app-step-by {
+    color: #ffa800;
+}
+.step-loader .ball-scale-multiple>div {
+	background-color: #ffa800;
+}
+#s-p-c-title {
+	color: #ffa800;
+}
+.s-p-c-btn {
+	text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+	color: #fff;
+	background: #ffa800;
+}
+#proccessing-outer-wrapper {
+	background: #ffa800;
+}
+.proccessing-loadbar div {
+	background: #ffa800;
+}
+.ball-scale-multiple>div {
+	background-color: #ffa800;
+}
+.d-b-notice-wrapper span.material-icons-two-tone {
+	filter: invert(58%) sepia(77%) saturate(1247%) hue-rotate(2deg) brightness(106%) contrast(103%);
+}
