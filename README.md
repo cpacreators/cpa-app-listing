@@ -26,7 +26,7 @@ Welcome to AppMarket – the quintessential template engineered exclusively for 
 <br>
 
 
-<img src="https://github.com/cpacreators/cpa-app-listing-template/assets/60578014/9bbace5a-1d5d-4730-a5cf-3a477c2689d4"/>
+<img src="https://i.imgur.com/uJUQPz4.png"/>
 <br>
 Seize full command of your CPA marketing endeavors with our enhanced back-end admin panel. With AppMarket, managing listed apps and configuring landing pages becomes a breeze, sans the complexities of coding. Revel in unmatched control and flexibility to fine-tune your campaigns for optimal results.
 
