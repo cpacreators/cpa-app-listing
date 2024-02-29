@@ -23,12 +23,25 @@ Access admin panel on website.com/admin
 <br>
 Welcome to AppMarket – the quintessential template engineered exclusively for CPA marketers aiming to soar to new heights. Gone are the days of generic landing pages; enter AppMarket, the epitome of innovation in app-listing templates tailored precisely for CPA marketing prowess.
 
+
 <br>
 
 
 <img src="https://i.imgur.com/uJUQPz4.png"/>
 <br>
 Seize full command of your CPA marketing endeavors with our enhanced back-end admin panel. With AppMarket, managing listed apps and configuring landing pages becomes a breeze, sans the complexities of coding. Revel in unmatched control and flexibility to fine-tune your campaigns for optimal results.
+
+
+<p>
+  <b> &nbsp;Join Us on OGAds:</b></summary></p>
+  <p>
+   <a href="https://members.ogads.com/register?r=89668">  <img src="https://i.imgur.com/b9XZKbc.gif" alt="CPA Creators" /></a></p>
+  <br/>
+<p>
+<b> &nbsp;Join Us on Adblue Media (Ex CPABuild):</b></summary></p>
+   <a href="https://cpazip.com/aff/cpabuild">  <img src="https://i.imgur.com/jJCxowb.jpeg" alt="CPA Creators" height="250" /></a></p>
+  <br/>
+  <p>
 
 # Flawless Responsive Design:
 
