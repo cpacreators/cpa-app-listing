@@ -18,7 +18,7 @@ Access admin panel on website.com/admin
 <br>
 **Admin Username:** admin
 <br>
-**Admin Password**: admin123!
+**Admin Password**: admin123
 <br>
 <br>
 Welcome to AppMarket – the quintessential template engineered exclusively for CPA marketers aiming to soar to new heights. Gone are the days of generic landing pages; enter AppMarket, the epitome of innovation in app-listing templates tailored precisely for CPA marketing prowess.
